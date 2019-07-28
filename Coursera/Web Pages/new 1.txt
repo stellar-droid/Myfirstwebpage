@@ -1,0 +1,8 @@
+<! doctype html>
+<html lanhuage="english">
+<meta charset="utf-8">
+<title> my first weeb page</title>
+<body>
+My name is lokesh wani
+</body>
+</html>
